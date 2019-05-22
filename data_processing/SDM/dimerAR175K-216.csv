@@ -1,0 +1,2 @@
+PDB file,Chain ID,Mutation,WT_SSE,WT_RSA(%),WT_DEPTH (angstrom),WT_OSP,WT_SS,WT_SN,WT_SO,MT_SSE,MT_RSA(%),MT_DEPTH (angstrom),MT_OSP,MT_SS,MT_SN,MT_SO,Predicted ddg,Outcome
+dimer.pdb,A,R175K,p,105.599998,3.140000,0.044000,0,0,0,p,105.400002,3.210000,0.048000,0,0,0,-0.2700,Reduced stability
